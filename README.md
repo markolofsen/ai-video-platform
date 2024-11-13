@@ -4,6 +4,11 @@
 
 **AIVideoEditor** is an all-in-one AI-powered video editing script designed to help businesses, agencies, and content creators transform images into engaging, high-quality videos. This turnkey solution installs seamlessly, enabling professional video production from the first setup. Whether for social media, corporate branding, or promotional campaigns, AIVideoEditor streamlines video creation, providing an advanced editor, AI animations, and media management—all in a single tool.
 
+<p align="center">
+  <img src="media/demo.gif" alt="Watch the demo" width="100%">
+</p>
+
+
 ---
 
 ## 🚀 **Why Choose AIVideoEditor for AI Video Editing?**
@@ -144,4 +149,13 @@ AIVideoEditor is built to deliver high performance, scalability, and ease of use
 
 AIVideoEditor is designed to streamline AI-powered video editing, helping businesses elevate their content strategy, boost audience engagement, and improve production efficiency. Transform your content creation with AIVideoEditor and start producing stunning videos today.
 
-### **Contact Us** for more details on how AIVideoEditor can enhance your video production workflows!
+---
+
+## 📞 **Contact Us**
+
+Interested in AIVideoEditor? Have questions or need more details on how it can enhance your video production? We’re here to help!
+
+- 📧 **Email**: [m@unrealos.com](mailto:m@unrealos.com)
+- 💬 **Telegram**: [@markinmatrix](https://t.me/markinmatrix)
+
+Get in touch with us for a demo, pricing information, or to discuss how AIVideoEditor can be tailored to your specific needs. Let’s transform your content creation process together!
